@@ -1,0 +1,6 @@
+{
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://pyevycshopjhhuhevtck.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_enLfnMsH_vPP_JD-nRCgQA_ZalnKa1E"
+  }
+}
